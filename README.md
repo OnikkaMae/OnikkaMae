@@ -14,13 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=NikzByte&show_icons=true&count_private=true&theme=merko" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikzByte&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikzByte&theme=merko" alt="GitHub Streak" />
 
 
 
